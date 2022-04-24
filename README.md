@@ -1,4 +1,5 @@
-# Opencore DELL Inspiron 5593 - 0.8.0 EFI Fix All 🥰.                                        
+# Opencore DELL Inspiron 5593 - 0.8.0 EFI Fix All 🥰.   
+
 Share EFI Hackintosh Opencore macOS Monterey 12.3.1 - DELL Inspiron 5593.
 
 • Cấu hình máy: DELL Inspiron 5593.                                 
